@@ -1,2 +1,8 @@
-# Lovasz-Optimal-Representation-of-Graph
-Programs Collection about Representation of graphs in Lovasz Optimal Mode for Quantum Mechanics Problems
+# Lovasz Optimal Representation of Graph
+Development in progress.
+
+Programs developed in
+- Matlab
+- Mathematica
+- C Objetive
+- GAMS
